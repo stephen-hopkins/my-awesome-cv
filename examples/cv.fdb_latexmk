@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1682936273 "d:/Projects/my-awesome-cv/examples/cv.tex" "cv.pdf" "cv" 1682936273
+["pdflatex"] 1684070776 "d:/Projects/my-awesome-cv/examples/cv.tex" "cv.pdf" "cv" 1684070776
   "awesome-cv.cls" 1675941150 29662 6ae551aa9ca1ae0fee66b0adbc3f4050 ""
   "c:/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1640312502 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1640311704 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
@@ -30,9 +30,9 @@
   "c:/texlive/2021/texmf-dist/web2c/texmf.cnf" 1640313094 40042 fe981136cbb5f3715ab1b0e46e3d3892 ""
   "c:/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt" 1640315758 2820070 2fdce2782fe7d759942f4a3935f6e9cb ""
   "c:/texlive/2021/texmf.cnf" 1640315691 713 e69b156964470283e0530f5060668171 ""
-  "cv.aux" 1682936273 34 3985256e7290058c681f74d7a3565a19 ""
-  "cv.tex" 1675949651 3833 e5fd12c74ba4c8398b1e3dc5e9f8aadc ""
-  "d:/Projects/my-awesome-cv/examples/cv.tex" 1675949651 3833 e5fd12c74ba4c8398b1e3dc5e9f8aadc ""
+  "cv.aux" 1684070776 34 3985256e7290058c681f74d7a3565a19 ""
+  "cv.tex" 1684070774 3841 beb67d0212a765851b5e78837347196b ""
+  "d:/Projects/my-awesome-cv/examples/cv.tex" 1684070774 3841 beb67d0212a765851b5e78837347196b ""
   (generated)
   "cv.log"
   "cv.pdf"
